@@ -13,7 +13,7 @@ for (pkg in pkgs){
 }
 
 #path where CSV file is located
-my_path<-file.path("N:","SharkTank","data sharing package")
+my_path<-file.path(YOUR PATH)
 
 #raw data
 raw_ST_data <- read.csv(file.path(my_path,"ST_cleaned_data.csv"),header=TRUE)
