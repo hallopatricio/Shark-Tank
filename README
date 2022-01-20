@@ -1,0 +1,6 @@
+This repository contains the data files produced by the project " Blood in the Water: An Abductive Approach to Startup Valuation on ABC’s Shark Tank" by Lavanchy, Reichert, and Joshi.
+
+The following briefly describes the datasets contained in the excel file "SharkTank.xlsx". For more information regarding the construction of the datasets, please see the draft, currently located here: LINK (SSRN/JBVi)
+
+The files within the input folder contain the code and underlying files that construct the data in the Data Appendix. For questions and comments regarding the datasets, please feel free to reach out at maude.lavanchy@imd.org or patrick.reichert@imd.org.
+
