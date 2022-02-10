@@ -1,6 +1,6 @@
 This repository contains the data files produced by the project " Blood in the Water: An Abductive Approach to Startup Valuation on ABC’s Shark Tank" by Lavanchy, Reichert, and Joshi.
 
-The following briefly describes the datasets contained in the data package folder. For more information regarding the construction of the datasets, please see the draft, currently located here: LINK (SSRN/JBVi)
+The following briefly describes the datasets contained in the data package folder. For more information regarding the construction of the datasets, please see the draft, currently located here: https://www.sciencedirect.com/science/article/pii/S2352673422000038
 
 - CSV file with data (details of the dataset available in the paper): ST_cleaned_data.csv 
 - R code to replicate the classification tree (Figure 2): ST_CART_script.R 
